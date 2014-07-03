@@ -1,0 +1,24 @@
+REQUIREMENTS
+============
+Wordpress 3.1 or higher
+
+WP e-Commerce Plugin 3.8.3 or higher
+
+INSTALLATION
+============
+1. Copy entire wp-content directory to your wordpress page. This directory just overrides WebToPay
+plugin, but doesn't affect anything else, so it is safe to use.
+
+2. Go to admin panel and active: Store > Settings > Payment Options:
+
+    Check Webtopay checkbox
+    
+    Don't forget to write your projectid and sign_password in right sidebar. 
+
+If you having any problems, write to support@webtopay.com
+
+HISTORY
+========
+
+2012-01-27	Security update;
+2011-09-27	Price calculation bug fix;
